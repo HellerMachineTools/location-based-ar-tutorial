@@ -1,2 +1,2 @@
 # location-based-ar-tutorial
-AR Test
+AR Heller machine test
